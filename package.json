@@ -1,0 +1,20 @@
+{
+  "name": "bedrock-angular-demo-warning",
+  "version": "0.0.1-0",
+  "description": "Provides simple br-demo-warning Angular component.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-angular-demo-warning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-angular-demo-warning/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-angular-demo-warning#readme",
+  "dependencies": {
+    "angular": "~1.6.4"
+  },
+  "bedrock": {
+    "browserDependencies": "all"
+  }
+}
