@@ -8,6 +8,6 @@
 import angular from 'angular';
 import DemoWarningComponent from './demo-warning-component.js';
 
-const module = angular.module('bedrock.demoWarning', []);
+const module = angular.module('bedrock.demo-warning', []);
 
 module.component('brDemoWarning', DemoWarningComponent);
