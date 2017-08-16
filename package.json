@@ -13,7 +13,7 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-angular-demo-warning#readme",
   "dependencies": {
     "angular": "~1.6.4",
-    "bedrock-material": "^1.0.0"
+    "bedrock-angular-material": "^1.0.0"
   },
   "bedrock": {
     "browserDependencies": "all"
