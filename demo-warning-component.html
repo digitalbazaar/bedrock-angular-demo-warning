@@ -1,5 +1,7 @@
-<!-- FIXME: remove bootstrap classes: alert alert-info -->
-<div class="alert alert-info" ng-hide="::$ctrl.productionMode">
-  <strong>Note:</strong> This is a demonstration website. Please do not enter any sensitive personal information.
-  <span ng-if="::$ctrl.demoWarningUrl">[<a ng-href="{{::$ctrl.demoWarningUrl}}">more info...</a>]</span>
-</div>
+<!-- TODO: use customer colors or CSS? -->
+<md-card style="background-color: #BBDEFB">
+  <md-card-content>
+      <strong>Note:</strong> This is a demonstration website. Please do not enter any sensitive personal information.
+      <span ng-if="::$ctrl.demoWarningUrl">[<a ng-href="{{::$ctrl.demoWarningUrl}}">more info...</a>]</span>
+  </md-card-content>
+</md-card>
