@@ -1,6 +1,6 @@
 {
   "name": "bedrock-angular-demo-warning",
-  "version": "1.0.1-0",
+  "version": "2.0.0",
   "description": "Provides simple br-demo-warning Angular component.",
   "browser": "index.js",
   "repository": {
